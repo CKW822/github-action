@@ -1,5 +1,4 @@
-FROM nikolaik/python-nodejs:python3.10-nodejs18-slim
-
+FROM nikolaik/python-nodejs:python3.9-nodejs18
 LABEL version="1.0.0"
 LABEL repository="https://github.com/serverless/github-action"
 LABEL homepage="https://github.com/serverless/github-action"
